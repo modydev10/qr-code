@@ -29,6 +29,8 @@ body {
     gap: 10px;
     align-items: center;
     padding: 12px 0;
+
+    box-shadow: 0 5px 10px #313131;
 }
 
 
